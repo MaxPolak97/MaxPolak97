@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maxpolak97@gmail.com)
 
 - 🔭 Welcome to my Github page! 
-- 🌱 I am currently a 2nd yearMSc student in Robotics at [TU Delft](https://www.tudelft.nl/en/). Prior to that, I obtained my Bachelor's degree in Mechanical Engineering at [TU Delft](https://www.tudelft.nl/en/) as well including a minor in Environmental Engineering
+- 🌱 I am currently a 2nd yearMSc student in Robotics at [TU Delft](https://www.tudelft.nl/en/). Prior to that, I obtained my Bachelor's degree in Mechanical Engineering at [TU Delft](https://www.tudelft.nl/en/) as well including a minor in Environmental Engineering.
 - 😄 I am interested in using Deep Learning for robotics! 
 - 📫 Feel free to contact me if you want to discuss interesting topics about robotics.
 
