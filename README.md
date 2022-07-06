@@ -11,7 +11,14 @@
 - 😄 I am interested in using Deep Learning for robotics! 
 - 📫 Feel free to contact me if you want to discuss interesting topics about robotics.
 
+### Recent Projects
+|TIAGo in Grocery Stores: Relocating Products Left at Checkout Back to Their Shelves | Ocean Cleanup Game Using Haptic Feedback |
+|---|---|
+<img src="./videos/MDP_project.gif" alt="005" style="zoom: 50%;" /> | <img src="./videos/CHRI_project.gif" alt="004" style="zoom: 50%;" /> |
 
+| [Global Planning and Local Obstacle Avoidance for a Drone](https://www.researchgate.net/publication/358573208_Planning_Algorithm_for_a_Quadrotor_Drone) | 3D Pedestrian Detection based on Multiple Sensors |
+|---|---|
+<img src="./images/RO47005.gif" alt="005" style="zoom: 50%;" /> | <img src="./images/RO47004.gif" alt="004" style="zoom: 50%;" /> |
 
 <!--
 **MaxPolak97/MaxPolak97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
