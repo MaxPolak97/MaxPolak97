@@ -16,9 +16,10 @@
 |---|---|
 <img src="./videos/MDP_project.gif" alt="005" style="zoom: 50%;" /> | <img src="./videos/CHRI_project.gif" alt="004" style="zoom: 50%;" /> |
 
-| [Global Planning and Local Obstacle Avoidance for a Drone](https://www.researchgate.net/publication/358573208_Planning_Algorithm_for_a_Quadrotor_Drone) | 3D Pedestrian Detection based on Multiple Sensors |
+| Path Planning With Applications to Autonomously Guided Beds in
+a Hospital Environment Using GO-RRT | 3D Pedestrian Detection based on Sensor fusion (combining YOLO Object Detection + LiDAR + Radar + StereoVision) |
 |---|---|
-<img src="./images/RO47005.gif" alt="005" style="zoom: 50%;" /> | <img src="./images/RO47004.gif" alt="004" style="zoom: 50%;" /> |
+<img src="./videos/PDM_project.gif" alt="005" style="zoom: 50%;" /> | <img src="./videos/MP_project.gif" alt="004" style="zoom: 50%;" /> |
 
 <!--
 **MaxPolak97/MaxPolak97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
