@@ -20,6 +20,11 @@
 |---|---|
 <img src="./videos/PDM_project.gif" alt="005" style="zoom: 50%;" /> | <img src="./videos/MP_project.gif" alt="004" style="zoom: 50%;" /> |
 
+| Explainable Neural Networks for Incipient Slip Sensing in Robot Tactile Learning | 
+|---|
+<img src="./videos/XAI-tactilesensing.gif" alt="005" style="zoom: 50%;" /> |
+
+
 <!--
 **MaxPolak97/MaxPolak97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
